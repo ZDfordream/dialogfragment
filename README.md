@@ -1,14 +1,17 @@
 ## EasyDialogFragment
 
 **使用**
+```
 dependencies {
-    compile 'com.zhudong:EasyDialogFragment:1.0.0'
+     compile 'com.zhudong:EasyDialogFragment:1.0.0'
 }
+```
+```
 用法很简单，将集成DialogFragment替换成DragAwayDialogFragment或SwipeAwayDialogFragment
+```
 
 ### 开源许可 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
-```
 Copyright 2017 zhudong
 
 Licensed under the Apache License, Version 2.0 (the "License");
